@@ -1,1 +1,1 @@
-# Fashion-Apparel-Recommendation-Visual-Search
+# Fashion Apparel Recommendation Visual Search
